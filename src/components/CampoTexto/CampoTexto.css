@@ -1,0 +1,23 @@
+.campo-texto{
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario form label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 14px 14px;
+    text-align: left;
+}
+
+.formulario form input {
+    margin: 10px 10px;
+    padding: 14px 14px;
+    text-align: left;
+    border-radius: 25px;
+    outline: none;
+    offset: none;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
